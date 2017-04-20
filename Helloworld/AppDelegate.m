@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     NSLog(@"Hello world");
     NSLog(@"hello world");
+    NSLog(@"branch two");
     return YES;
 }
 
